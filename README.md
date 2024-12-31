@@ -10,7 +10,7 @@ The **Kirayedar Mobile App** is a comprehensive rental management platform desig
 
 Below is a full preview of the app:
 
-![App Preview](Preview/Kirayedar.gif)
+![App Preview](Preview/Kirayedar.mp4)
 
 
 

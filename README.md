@@ -5,6 +5,14 @@ The **Kirayedar Mobile App** is a comprehensive rental management platform desig
 
 ---
 
+## Preview
+
+Below is a full preview of the app:
+
+![App Preview](screenshot/preview.gif)
+
+
+
 ## Key Features
 
 1. **Role Management**
@@ -98,36 +106,6 @@ The **Kirayedar Mobile App** is a comprehensive rental management platform desig
 - Landlords can list properties and track rent payments.
 - Tenants can browse properties, communicate with landlords, and make secure payments.
 - Admin oversees the system and resolves disputes.
-
----
-
-## Screenshots
-
-Below are some previews of the app:
-
-1. **Home Screen**
-   ![Home Screen](screenshot/1.jpg)
-
-2. **Login Screen**
-   ![Login Screen](screenshot/2.jpg)
-
-3. **Property Listing**
-   ![Property Listing](screenshot/3.jpg)
-
-4. **Property Details**
-   ![Property Details](screenshot/4.jpg)
-
-5. **Messaging System**
-   ![Messaging System](screenshot/5.jpg)
-
-6. **Payment Interface**
-   ![Payment Interface](screenshot/6.jpg)
-
-7. **Admin Dashboard**
-   ![Admin Dashboard](screenshot/7.jpg)
-
-8. **Confirmation Screen**
-   ![Confirmation Screen](screenshot/8.jpg)
 
 ---
 
